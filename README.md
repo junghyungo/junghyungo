@@ -1,4 +1,9 @@
-## Hi there 👋
+# 이 도랑을 찾는 모든 청년들이여
+바라건데
+한없이 행복하고 편안하고 자유롭기를
+무한한 지혜가 샘솟고 무한한 자비가 피어나
+험한 운명 속에서도 주인공이 되어
+당당하고 멋지게 살아갈 수 있기를
 
 <!--
 **junghyungo/junghyungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
